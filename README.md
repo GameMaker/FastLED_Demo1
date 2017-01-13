@@ -1,10 +1,10 @@
 # Getting Started with FastLED, Arduino, and addressable LEDs
-## TITLE: FastLED demo
-## AUTHOR: Aaron Cammarata
-## EMAIL: aaron dot cammarata at gmail dot com
-## DATE: JAN 10, 2017
-## LICENSE: Free. Use it. Modify it. Enjoy it.
-## DEMO VIDEO: [YouTube](https://www.youtube.com/watch?v=y_TWD734Gig)
+###### TITLE: FastLED demo
+###### AUTHOR: Aaron Cammarata
+###### EMAIL: aaron dot cammarata at gmail dot com
+###### DATE: JAN 10, 2017
+###### LICENSE: Free. Use it. Modify it. Enjoy it.
+###### DEMO VIDEO: [YouTube](https://www.youtube.com/watch?v=y_TWD734Gig)
 
 This is a demo for new programmers who want to get started making light animations with the FastLED library.
 You'll need an Arduino, some lights, and all the associated power components and wires.
