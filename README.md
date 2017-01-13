@@ -11,4 +11,4 @@ You'll need an Arduino, some lights, and all the associated power components and
 Unfortunately, given the number of different types of lights, Arduino boards, and development tools, it's
 impossible for me to give instructions on setting up every possible configuration.
 It's geared towards younger learners, or parent/child teams working and learning Arduino together.
-
+=======
