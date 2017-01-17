@@ -12,3 +12,5 @@ Unfortunately, given the number of different types of lights, Arduino boards, an
 impossible for me to give instructions on setting up every possible configuration.
 
 It's geared towards younger learners, or parent/child teams working and learning Arduino together.
+
+[There's a wiring diagram here in the repo as well.](FastLED_Demo1/FastLED_Demo1_Wiring_Diagram.png)
