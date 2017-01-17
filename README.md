@@ -13,4 +13,4 @@ impossible for me to give instructions on setting up every possible configuratio
 
 It's geared towards younger learners, or parent/child teams working and learning Arduino together.
 
-[There's a wiring diagram here in the repo as well.](FastLED_Demo1/FastLED_Demo1_Wiring_Diagram.png)
+![Wiring diagram](FastLED_Demo1_Wiring_Diagram.png)
